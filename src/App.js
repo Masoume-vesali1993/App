@@ -10,8 +10,8 @@ const App = () => {
 
   const [counter, setCounter] = useState(0);
 
-    useEffect(() =>{
-      console.log('Effect has been run');
+    useEffect(() => {
+      
     }, []);
 
 
