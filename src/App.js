@@ -15,6 +15,10 @@ const App = () => {
     }, []);
 
 
+    const getRecipes = () => {
+
+    }
+    
   return (
     <div className="App">
       <form className="search-form">
