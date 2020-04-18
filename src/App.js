@@ -12,7 +12,7 @@ const App = () => {
 
     useEffect(() =>{
       console.log('Effect has been run');
-    });
+    }, []);
 
 
   return (
